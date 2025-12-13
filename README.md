@@ -11,7 +11,7 @@ This repository contains a semantic book recommendation system implemented in a 
 
 ## Files
 
-- `AISD_Poject-5.ipynb`: Main notebook that loads the data, builds embeddings, and generates recommendations.
+- `semantic-book-recommendations.ipynb`: Main notebook that loads the data, builds embeddings, and generates recommendations.
 
 ## Requirements
 
