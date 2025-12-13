@@ -21,7 +21,7 @@ This repository contains a semantic book recommendation system implemented in a 
 
 ## Usage
 
-1. Open the notebook `AISD_Poject-5.ipynb` in Jupyter or Google Colab.
+1. Open the notebook `semantic-book-recommendations.ipynb` in Jupyter or Google Colab.
 2. Install the required libraries if needed.
 3. Run all cells.
 4. Provide a query (description of the type of book you want), and view the recommended books.
