@@ -1,5 +1,7 @@
 # Semantic Book Recommendations
 
+> Academic prototype. Additional setup, a suitable dataset, and model downloads are required to run locally. This repository is not a production deployment.
+
 ### Find books by meaning, not just keywords
 
 A notebook-based NLP project that turns a natural-language reading request into book recommendations. It combines sentence embeddings with vector search and includes an interactive Gradio interface.
